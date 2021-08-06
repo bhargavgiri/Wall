@@ -16,8 +16,6 @@ public class ApiClient {
 
 
 
-
-
 public  static  WallpaperServise wallpaperServise=null;
 public static  WallpaperServise getdata()
 {
